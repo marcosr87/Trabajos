@@ -1,0 +1,5 @@
+com\company\TPMonitoreo\Model\Usuario.class
+com\company\TPMonitoreo\Repository\Interfaces\IUsuarioDAO.class
+com\company\TPMonitoreo\Repository\UsuarioDAO.class
+com\company\TPMonitoreo\Controller\UsuariosController.class
+com\company\TPMonitoreo\TpMonitoreoApplication.class
